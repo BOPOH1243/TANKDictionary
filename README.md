@@ -1,2 +1,4 @@
-# TANKDictionary
-README dictionary of our PS2 clan
+# Словарь клана ТАНК
+Этот словарь... бля... бля... бля...
+
+# Основные термины
