@@ -9,3 +9,6 @@
 ### Magrider = утюг
 ### Vanguard = Van/Бабангард
 ### Prowler = Хуига
+### ANT = Жук
+### Harasser = Бебра
+### Flash = Скутер
